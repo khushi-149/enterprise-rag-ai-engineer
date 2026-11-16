@@ -1,0 +1,13 @@
+fastapi>=0.110,<1
+uvicorn[standard]>=0.27
+pydantic>=2.6
+pydantic-settings>=2.2
+sentence-transformers>=2.6
+faiss-cpu>=1.8
+rank-bm25>=0.2
+numpy>=1.26
+requests>=2.31
+streamlit>=1.32
+pypdf>=4.1
+python-docx>=1.1
+openai>=1.30

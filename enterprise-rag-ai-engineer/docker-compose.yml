@@ -1,0 +1,9 @@
+services:
+  atlasrag-api:
+    build: .
+    ports: ["8000:8000"]
+    env_file: .env
+    volumes:
+      - ./storage:/app/storage
+      - ./data/knowledge:/app/data/knowledge:ro
+    restart: unless-stopped

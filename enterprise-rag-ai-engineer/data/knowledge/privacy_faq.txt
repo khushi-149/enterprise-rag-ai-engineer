@@ -1,0 +1,3 @@
+Privacy FAQ
+
+Customer content is encrypted in transit using TLS 1.2 or higher and encrypted at rest using AES-256. Support engineers may access customer content only when necessary to resolve an authorized support request. Customer content is not used to train public foundation models. Data deletion requests are acknowledged within five business days.

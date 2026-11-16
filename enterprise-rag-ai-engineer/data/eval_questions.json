@@ -1,0 +1,7 @@
+[
+  {"question":"How long are application audit logs retained?","relevant_sources":["security_policy.md"]},
+  {"question":"How often do standard dashboards refresh?","relevant_sources":["product_handbook.md"]},
+  {"question":"What is the response target for a critical production outage?","relevant_sources":["support_sla.md"]},
+  {"question":"How is customer data encrypted?","relevant_sources":["privacy_faq.txt"]},
+  {"question":"When do export links expire?","relevant_sources":["product_handbook.md"]}
+]
